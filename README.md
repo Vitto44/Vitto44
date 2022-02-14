@@ -7,9 +7,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&color=%2374C69D&size=30&duration=3500&center=true&vCenter=true&lines=Full-Stack+Developer;JS+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&color=%23EE8CFF&size=30&duration=3500&center=true&vCenter=true&lines=Full-Stack+Developer;JS+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-  <img align="center" alt="Vitto44's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitto44&show_icons=true&hide_border=false&title_color=74c69d&icon_color=ff4d6d&bg_color=023047&text_color=ffffff&border_color=023047" />
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitto44&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -40,11 +40,13 @@
 
 <br/>
 
+<img align="center" alt="Vitto44's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitto44&show_icons=true&hide_border=false&title_color=EE8CFF&icon_color=ff4d6d&bg_color=023047&text_color=ffffff&border_color=023047" />
+
+<br/>
+
 <h3>
   Wanna know more? 👇
 </h3>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/vito-hajdu/" rel="nofollow">
 <img width="52px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png" style="max-width: 100%;">
