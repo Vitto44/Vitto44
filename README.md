@@ -9,8 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&color=%23EE8CFF&size=30&duration=3500&center=true&vCenter=true&lines=Full-Stack+Developer;JS+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitto44&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 
 <h3>
